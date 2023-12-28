@@ -14,4 +14,11 @@
 
 **Thoughts:** It was alot of extra learning of how to properly integrate Git and Github, but I'm excited that I've refamiliarized myself with both.
 
+### Day 3 (Dec 28, 2023)
+##### 
+
+**Today's Progress**: Refreshed knowledge of strings, floats, decimals, math operations in Ruby. Re-introduced to basic data structures like Hash/key values pairs and indexes. Ran Rspec via CLI.
+
+**Thoughts:** Lots of similar foundations as when I was working on Javascript, it's easier to conceptualize everything since I've learned most of this before
+
 
