@@ -21,4 +21,9 @@
 
 **Thoughts:** Lots of similar foundations as when I was working on Javascript, it's easier to conceptualize everything since I've learned most of this before
 
+### Day 4 (Dec 30, 2023)
+##### 
 
+**Today's Progress**: Freshed the basics of combining HTML and CSS (External CSS, Internal CSS and inline CSS). Went through basic CSS code to change properties (colors, font families, etc).
+
+**Thoughts:** Another refresher class on front-end basics, feeling more  confident in coding again. Feeling more comfortable with CLI/Linux commands to navigate file directories
